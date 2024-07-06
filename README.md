@@ -1,6 +1,6 @@
-This dataset is taken from Kaggle site.
-**About this dataset:**
-**Context**
+This dataset is taken from Kaggle site.  
+**About this dataset:**  
+**Context**  
 India is the world's third-largest producer and third largest consumer of electricity. The national electric grid in India has an installed capacity of 370.106 GW as of 31 March 2020. Renewable power plants, which also include large hydroelectric plants, constitute 35.86% of India's total installed capacity.
 India has a surplus power generation capacity but lacks adequate distribution infrastructure.
 
